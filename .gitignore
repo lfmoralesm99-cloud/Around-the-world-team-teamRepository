@@ -1,0 +1,14 @@
+# Match data is licensed for the competition only and must never be committed.
+/data
+/data/
+/cache
+/cache/
+# The open sample games are downloaded by scripts/get_sample_data.sh, not vendored.
+/external
+/external/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+venv/
