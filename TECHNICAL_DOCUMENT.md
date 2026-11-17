@@ -4,7 +4,7 @@ Challenge match: BAR-ATH · Team: **Around the world**
 
 Members: Maria Cachim, Ana Barroso, Stephane Cruz, Dan Arscott, Luis Felipe Morales
 
-Repository: <https://github.com/lfmoralesm99-cloud/Around-the-world-team-Repository>
+Repository: <https://github.com/lfmoralesm99-cloud/Around-the-world-team-teamRepository>
 
 ## Submission file fingerprint
 
